@@ -1,0 +1,1 @@
+web: gunicorn murphy_django.wsgi
