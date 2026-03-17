@@ -1,1 +1,1 @@
-web: gunicorn murphy_django.wsgi
+web: gunicorn my_project.wsgi
